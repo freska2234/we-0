@@ -201,10 +201,12 @@ img{
 
 
 
+
 .offer{
+    width: 100%;
     overflow: hidden;
     background-color: #ffffff40;
-    height: 100px;
+    min-height: 100px;
     display: flex;
     flex-direction: column;
     gap: 10px;
